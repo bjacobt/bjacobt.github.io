@@ -21,6 +21,7 @@ cd lighttpd-1.4.41/
 
 #### Setup install directory
 We want to install lighthttp in /opt/dev, so create directory and change ownership
+
 ```
 sudo mkdir /opt/dev/
 sudo chown ubuntu:ubuntu /opt/dev/
