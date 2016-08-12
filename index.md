@@ -3,7 +3,7 @@ layout: page
 title: Random stuff
 ---
 
-### Building lighttpd for rapspberry pi on Ubuntu 14.04
+### Building lighttpd for raspberry pi on Ubuntu 14.04
 
 #### Setup cross compiler
 ```
