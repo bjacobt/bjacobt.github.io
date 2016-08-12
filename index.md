@@ -9,6 +9,7 @@ title: Random stuff
 ```
 sudo apt-get install -y build-essential g++-arm-linux-gnueabihf gdb-multiarch
 ```
+
 #### Download lighttpd source
 ```
 mkdir lighttpd
@@ -17,6 +18,7 @@ wget http://download.lighttpd.net/lighttpd/releases-1.4.x/lighttpd-1.4.41.tar.gz
 tar -xvzf lighttpd-1.4.41.tar.gz
 cd lighttpd-1.4.41/
 ```
+
 #### Setup install directory
 We want to install lighthttp in /opt/dev, so create directory and change ownership
 ```
